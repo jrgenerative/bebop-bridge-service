@@ -34,6 +34,7 @@
     "cors": "^2.8.1",
     "express": "^4.14.0",
     "fs-extra": "^2.0.0",
+    "geolib": "^2.0.22",
     "jsftp": "^1.5.5",
     "method-override": "^2.3.6",
     "node-bebop": "^0.6.0",
