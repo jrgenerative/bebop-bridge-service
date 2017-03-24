@@ -197,10 +197,10 @@ module.exports = function (options) {
        */
       new CopyWebpackPlugin([
         {
-          from: 'missions/flightplans',
-          to: 'assets/missions'
+          from: 'src/assets',
+          to: 'assets'
         }
-      ]),
+      ])
 
       // /*
       //  * Plugin: HtmlElementsPlugin
