@@ -199,6 +199,11 @@ module.exports = function (options) {
         {
           from: 'src/assets',
           to: 'assets'
+        },
+        // Scripts
+        {
+          from: 'src/scripts/start.bat',
+          to: 'start.bat'
         }
       ])
 
